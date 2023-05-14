@@ -1,0 +1,10 @@
+[
+  {
+    "username": "admin",
+    "email": "admin@admin.com",
+    "password": "admin",
+    "role": "admin",
+    "phoneNumber": "+7 398 383 8162",
+    "address": "31 Helena Trail"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Waylin",
+    "facility": "mattis odio donec vitae nisi",
+    "roomCapacity": 10,
+    "imgUrl": "https://www.gannett-cdn.com/-mm-/05b227ad5b8ad4e9dcb53af4f31d7fbdb7fa901b/c=0-64-2119-1259/local/-/media/USATODAY/USATODAY/2014/08/13/1407953244000-177513283.jpg",
+    "authorId": 1,
+    "location": "310 Pearson Place",
+    "price": 256905,
+    "typeId": 3,
+    "status": 3
+  },
+  {
+    "name": "Verge",
+    "facility": "ac neque duis bibendum morbi",
+    "roomCapacity": 4,
+    "imgUrl": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?cs=srgb&dl=pexels-thorsten-technoman-338504.jpg&fm=jpg",
+    "authorId": 1,
+    "location": "07461 Moose Hill",
+    "price": 395067,
+    "typeId": 1,
+    "status": 2
+  },
+  {
+    "name": "Hartwell",
+    "facility": "cursus urna ut tellus nulla ut erat id mauris",
+    "roomCapacity": 4,
+    "imgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/d5/9c/b8/stone-wood-nature-resort.jpg?w=700&h=-1&s=1",
+    "authorId": 1,
+    "location": "1 Manufacturers Circle",
+    "price": 317979,
+    "typeId": 2,
+    "status": 4
+  },
+  {
+    "name": "Gerome",
+    "facility": "pellentesque viverra pede ac diam cras pellentesque volutpat dui",
+    "roomCapacity": 5,
+    "imgUrl": "https://www.travelandleisure.com/thmb/pCU_Y9fbQe4CT5Q73J9k2Bqd_bI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/header-grand-velas-los-cabos-MXALLINC0222-46d3772ad56f4493a83e1bcb49e119f9.jpg",
+    "authorId": 1,
+    "location": "11701 Namekagon Lane",
+    "price": 245280,
+    "typeId": 1,
+    "status": 1
+  },
+  {
+    "name": "Janice",
+    "facility": "magna vestibulum aliquet ultrices erat",
+    "roomCapacity": 6,
+    "imgUrl": "https://www.fodors.com/wp-content/uploads/2022/10/Aramness_120.jpeg",
+    "authorId": 1,
+    "location": "92124 Monterey Drive",
+    "price": 125525,
+    "typeId": 4,
+    "status": 4
+  },
+  {
+    "name": "Karolina",
+    "facility": "sapien iaculis congue vivamus metus arcu adipiscing molestie",
+    "roomCapacity": 5,
+    "imgUrl": "https://i.insider.com/610d872f38aff700189051a9?width=1136&format=jpeg",
+    "authorId": 1,
+    "location": "276 Warbler Street",
+    "price": 403930,
+    "typeId": 3,
+    "status": 3
+  },
+  {
+    "name": "Xena",
+    "facility": "vestibulum aliquet ultrices erat tortor sollicitudin mi",
+    "roomCapacity": 2,
+    "imgUrl": "https://hips.hearstapps.com/hmg-prod/images/hoshinoya-kyoto-floating-tearoom-3-1549906559.jpg",
+    "authorId": 1,
+    "location": "20 Buell Pass",
+    "price": 301702,
+    "typeId": 4,
+    "status": 2
+  },
+  {
+    "name": "Barri",
+    "facility": "vel ipsum praesent blandit lacinia erat vestibulum",
+    "roomCapacity": 1,
+    "imgUrl": "https://www.japan-guide.com/g18/2025_top.jpg",
+    "authorId": 1,
+    "location": "39819 Quincy Hill",
+    "price": 423495,
+    "typeId": 3,
+    "status": 1
+  },
+  {
+    "name": "Ashlin",
+    "facility": "nullam orci pede venenatis non sodales sed",
+    "roomCapacity": 4,
+    "imgUrl": "https://res.cloudinary.com/jnto/image/upload/w_900,h_600,c_fill,f_auto,fl_lossy,q_60/v1/media/filer_public/33/f0/33f0cd86-6a2b-408b-86ea-0af8e3187936/l_159623_a6vkgt",
+    "authorId": 1,
+    "location": "746 Mariners Cove Street",
+    "price": 135378,
+    "typeId": 2,
+    "status": 3
+  },
+  {
+    "name": "Fina",
+    "facility": "aliquam lacus morbi quis tortor id",
+    "roomCapacity": 7,
+    "imgUrl": "https://cdn.cheapoguides.com/wp-content/uploads/sites/2/2018/05/25688225598_63d3e2ed15_o.jpg",
+    "authorId": 1,
+    "location": "0 Mendota Parkway",
+    "price": 239976,
+    "typeId": 3,
+    "status": 4
+  },
+  {
+    "name": "Adriaens",
+    "facility": "faucibus orci luctus et ultrices posuere cubilia curae",
+    "roomCapacity": 7,
+    "imgUrl": "https://cdn.kimkim.com/files/a/content_articles/featured_photos/c4e235e49a572d1542a97be415292b2e99b6bcca/big-20fb44018af1de546b2ae11d9178922c.jpg",
+    "authorId": 1,
+    "location": "2 Oak Valley Road",
+    "price": 290904,
+    "typeId": 2,
+    "status": 4
+  },
+  {
+    "name": "Nettie",
+    "facility": "tincidunt lacus at velit vivamus vel nulla eget",
+    "roomCapacity": 6,
+    "imgUrl": "https://d27k8xmh3cuzik.cloudfront.net/wp-content/uploads/2018/07/hotels-norway-cover-001.jpg",
+    "authorId": 1,
+    "location": "854 Cascade Hill",
+    "price": 219824,
+    "typeId": 2,
+    "status": 2
+  },
+  {
+    "name": "Sara-ann",
+    "facility": "ut tellus nulla ut erat id mauris vulputate elementum",
+    "roomCapacity": 5,
+    "imgUrl": "https://cache.marriott.com/content/dam/marriott-renditions/CAIMD/caimd-pool-2210-hor-wide.jpg?interpolation=progressive-bilinear&downsize=1440px:*",
+    "authorId": 1,
+    "location": "36 Gina Park",
+    "price": 466903,
+    "typeId": 3,
+    "status": 3
+  },
+  {
+    "name": "Keely",
+    "facility": "sapien arcu sed augue aliquam erat volutpat in congue",
+    "roomCapacity": 7,
+    "imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max500/326565307.jpg?k=954819f4c6e545e9fa20d95793fd1cf59923b2555fee595286c32f39f02a25f0&o=&hp=1",
+    "authorId": 1,
+    "location": "1009 Oak Valley Circle",
+    "price": 363264,
+    "typeId": 3,
+    "status": 4
+  },
+  {
+    "name": "Frieda",
+    "facility": "sapien urna pretium nisl ut",
+    "roomCapacity": 3,
+    "imgUrl": "https://media.cntraveler.com/photos/5a78b61b4332805bf105f67b/master/w_3750,h_2912,c_limit/Shangri-La-Hotel-Dubai__2018_Level-42-at-night-C.jpg",
+    "authorId": 1,
+    "location": "14 Vidon Crossing",
+    "price": 348413,
+    "typeId": 1,
+    "status": 2
+  },
+  {
+    "name": "Gwenette",
+    "facility": "posuere cubilia curae nulla dapibus dolor vel est",
+    "roomCapacity": 1,
+    "imgUrl": "https://img.theculturetrip.com/wp-content/uploads/2020/12/four-seasons-hotel-kyoto.jpg",
+    "authorId": 1,
+    "location": "35040 Sutherland Parkway",
+    "price": 436338,
+    "typeId": 4,
+    "status": 4
+  },
+  {
+    "name": "Daphene",
+    "facility": "ut tellus nulla ut erat id mauris vulputate elementum",
+    "roomCapacity": 6,
+    "imgUrl": "https://indonesia.tripcanvas.co/wp-content/uploads/2022/06/hotel-view-feature-collage-2.jpg",
+    "authorId": 1,
+    "location": "2097 Maple Trail",
+    "price": 199274,
+    "typeId": 1,
+    "status": 3
+  },
+  {
+    "name": "Lydia",
+    "facility": "id nisl venenatis lacinia aenean sit amet justo morbi",
+    "roomCapacity": 1,
+    "imgUrl": "https://images.prestigeonline.com/wp-content/uploads/sites/8/2022/07/22123621/buahan-bali-4-1024x576.jpeg",
+    "authorId": 1,
+    "location": "07 Waubesa Drive",
+    "price": 273787,
+    "typeId": 1,
+    "status": 3
+  },
+  {
+    "name": "Pamella",
+    "facility": "id consequat in consequat ut nulla",
+    "roomCapacity": 2,
+    "imgUrl": "https://ik.imagekit.io/tvlk/blog/2020/04/The-Westin-Jakarta.jpg",
+    "authorId": 1,
+    "location": "485 Johnson Alley",
+    "price": 120341,
+    "typeId": 3,
+    "status": 3
+  },
+  {
+    "name": "Evelyn",
+    "facility": "sit amet diam in magna bibendum",
+    "roomCapacity": 7,
+    "imgUrl": "https://i.pinimg.com/originals/1e/88/6f/1e886fad97e5a63e2bc11656595be792.jpg",
+    "authorId": 1,
+    "location": "89125 Schiller Pass",
+    "price": 246152,
+    "typeId": 1,
+    "status": 4
+  }
+]
